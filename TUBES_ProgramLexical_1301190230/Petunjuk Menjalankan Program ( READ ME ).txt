@@ -1,5 +1,0 @@
-Petunjuk menjalankan program :
-1.	User menjalankan program di cmd/VSC
-2.	User menginputkan kalimat yang ingin di cek
-3.	Jika kalimat terdeteksi(ada) di dalam bahasa palembang yang disediakan maka program akan mengeluarkan pesan berupa semua kalimat valid yang diinputkan oleh user.
-4.	Dan jika kalimat tidak terdeteksi(tidak ada) di dalam bahasa palembang yang disediakan, Maka program akan mengeluarkan pesan error
